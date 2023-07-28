@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://shift0965.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 </div>
